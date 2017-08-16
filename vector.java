@@ -153,7 +153,7 @@ class vector{
     	return X;
     	
     }
-    
+    // print
     void printVector(){
 	System.out.println(" ");
 	for(int i=0; i<nr ;i++){
